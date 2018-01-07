@@ -1,6 +1,6 @@
 Android GDE Deck 💯
 =========================
-[![Build Status](https://travis-ci.org/PaulKinlan/webgde-deck.svg?branch=master)](https://travis-ci.org/PaulKinlan/webgde-deck)
+[![Build Status](https://travis-ci.org/mplacona/androidgde-deck.svg?branch=master)](https://travis-ci.org/mplacona/androidgde-deck)
 
 Disclaimer
 --------
