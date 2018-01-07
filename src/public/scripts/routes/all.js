@@ -9,7 +9,7 @@ import {
  } from '../platform/common.js';
 
 import { convertFeedItemsToJSON } from '../data/common.js';
-const allUrl = 'https://webgdedeck.com/all.rss';
+const allUrl = 'https://androidgdedeck.com/all.rss';
 //const allUrl = 'http://127.0.0.1:8080/all.rss';
 
 let config = loadData(`${paths.dataPath}config.json`).then(r => r.json());

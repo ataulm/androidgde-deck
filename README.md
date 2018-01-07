@@ -1,6 +1,12 @@
-Web GDE Deck 💯
+Android GDE Deck 💯
 =========================
 [![Build Status](https://travis-ci.org/PaulKinlan/webgde-deck.svg?branch=master)](https://travis-ci.org/PaulKinlan/webgde-deck)
+
+Disclaimer
+--------
+This is a fork of [Paul Kinlan's](https://github.com/paulkinlan) [webgde-deck](https://github.com/PaulKinlan/webgde-deck) that I converted to also fetch the Android GDEs from [the GDE page](https://developers.google.com/experts/).
+
+All entries have been added manually, so feel free to send me pull requests with corrections or add your feed if I missed it.
 
 Inspired by River of news, but HTTPs only and a PWA.
 
